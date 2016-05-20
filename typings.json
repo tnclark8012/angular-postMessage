@@ -1,0 +1,8 @@
+{
+  "ambientDependencies": {
+    "core-js": "registry:dt/core-js#0.0.0+20160317120654",
+    "jasmine": "registry:dt/jasmine#2.2.0+20160412134438",
+    "node": "registry:dt/node#4.0.0+20160509154515",
+    "jquery": "github:DefinitelyTyped/DefinitelyTyped/jquery/jquery.d.ts#4cdfbe96b666eec5e1defbb519a62abf04e96764"
+  }
+}
